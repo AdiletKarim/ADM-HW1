@@ -18,4 +18,3 @@
 ![вфывфыв](https://user-images.githubusercontent.com/91618962/136713715-03da3155-ef71-4817-9023-7b392e59962e.PNG)
 
 
-6. Studied and solved problems thanks to the material from the lecture, additional YouTube video lessons, and also stackerflow tips
