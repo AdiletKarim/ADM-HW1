@@ -1,5 +1,5 @@
 # ADM-HW1
-#H1 Description:
+# Description:
 1. In problem 1 I solved 69 tasks out of 91 given. Difficult topics for me were collections and regrex-parsing, since I had never worked with them before.
 2. In problem 2, I solved all the tasks. The tasks were easy and interesting
 3. Used the hackerrank compiler and jupyter notebook.
